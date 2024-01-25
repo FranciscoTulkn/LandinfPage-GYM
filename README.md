@@ -1,6 +1,6 @@
 # LAMDING PAGE - GYM
 
-Proyecto elaborado en HTML, CSS y Bootstrap 5, como practica en la creación de p+aginas web.
+Proyecto elaborado en HTML, CSS y Bootstrap 5, como practica en la creación de páginas web.
 Se utiliza la guía de la youtube Irina Delgado
 
 Esta es la fuente del proyecto original
